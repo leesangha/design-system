@@ -1,1 +1,15 @@
-{"root":["./src/main.ts","./src/vite-env.d.ts","./src/components/mybutton/index.tsx","./src/components/mytitle/index.tsx"],"version":"5.6.3"}
+{
+  "root": [
+    "./src/main.ts",
+    "./src/vite-env.d.ts",
+    "./src/components/mybutton/index.tsx",
+    "./src/components/mytitle/index.tsx",
+    "./src/stories/button.stories.ts",
+    "./src/stories/button.tsx",
+    "./src/stories/header.stories.ts",
+    "./src/stories/header.tsx",
+    "./src/stories/page.stories.ts",
+    "./src/stories/page.tsx"
+  ],
+  "version": "5.6.3"
+}
