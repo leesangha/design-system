@@ -1,7 +1,7 @@
 {
-  "name": "infludeo-component-test",
+  "name": "yatu-component",
   "private": false,
-  "version": "0.0.4",
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "build": "tsc -b && vite build",
